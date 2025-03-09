@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1005" alt="banner" src="https://github.com/user-attachments/assets/b2f383fe-5bac-4531-94f1-85a9ae11d952" />
 
 <!--
 **Martin-Uhlik/Martin-Uhlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
